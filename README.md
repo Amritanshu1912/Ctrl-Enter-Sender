@@ -24,7 +24,7 @@ Enable sending messages with Ctrl+Enter on specific websites with the Ctrl+Enter
 ## Installation
 
 1. Install the [Tampermonkey](https://tampermonkey.net/) extension for your browser.
-2. Click [here](https://raw.githubusercontent.com/Amritanshu1912/Ctrl-Enter-Sender/main/script.user.js) to install Ctrl+Enter Sender using Tampermonkey.
+2. Click [here](https://raw.githubusercontent.com/Amritanshu1912/Ctrl-Plus-Enter-Sender/main/script.user.js) to install Ctrl+Enter Sender using Tampermonkey.
 
 ## Usage
 
